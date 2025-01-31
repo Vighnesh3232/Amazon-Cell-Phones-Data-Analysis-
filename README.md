@@ -41,7 +41,7 @@ This project analyzes Amazon cell phone data to uncover insights into customer p
 ## 🔄 How to Run the Project
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Amazon-Cell-Phones-Analysis.git
+   git clone https://github.com/Vighnesh3232/Amazon-Cell-Phones-Analysis.git
    cd Amazon-Cell-Phones-Analysis
 
 ## Install dependencies
